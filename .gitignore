@@ -1,0 +1,8 @@
+# meta data
+.DS_Store
+.vscode
+.idea
+*.sw*
+
+# binary
+bubbletea_router
